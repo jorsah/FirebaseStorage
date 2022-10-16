@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255033626696",
+    "project_id": "digitec-task",
+    "storage_bucket": "digitec-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255033626696:android:7dde13e979c68e6afac87d",
+        "android_client_info": {
+          "package_name": "am.example.digitectask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255033626696-h2mc0rgonovq53m88d84169v78rsn6tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoZ9xNOHKSH20TPnPgeFESXOti5CA4vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255033626696-h2mc0rgonovq53m88d84169v78rsn6tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
